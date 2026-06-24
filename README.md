@@ -1,16 +1,12 @@
-## Hi there 👋
+# Hi, I'm Karthik Reddy 👋
 
-<!--
-**karthik5404/karthik5404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Electrical and Electronics Engineering Student  
+📍 Vasavi College of Engineering, Hyderabad  
+💻 Currently learning DSA in C++  
+🌐 Exploring Go Language  
+🎯 CAT 2028 Aspirant | Goal: IIM Bangalore  
+## 🚀 What I'm Building
+- Financial Data Analysis tools in C++ and Go (coming soon)
+- Consistent DSA practice — starting June 2026
+## 📫 Reach Me
+1602-25-734-019@vce.ac.in
