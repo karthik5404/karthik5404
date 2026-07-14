@@ -2,8 +2,7 @@
 
 🎓 Electrical and Electronics Engineering Student  
 📍 Vasavi College of Engineering, Hyderabad  
-💻 Currently learning DSA in C++  
-🌐 Exploring Go Language  
+💻 Currently learning DSA in C++   
 🎯 CAT 2028 Aspirant | Goal: IIM Bangalore  
 ## 🚀 What I'm Building
 - Financial Data Analysis tools in C++ and Go (coming soon)
